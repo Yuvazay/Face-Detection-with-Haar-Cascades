@@ -120,8 +120,8 @@ plt.show()
 <img width="1402" height="465" alt="image" src="https://github.com/user-attachments/assets/14c13baf-de4f-49a7-9ee6-1210e429b8b9" />
 <img width="641" height="429" alt="image" src="https://github.com/user-attachments/assets/1b8bd4dc-9403-44b3-9d76-f1e57fb1ac42" />
 <img width="650" height="472" alt="image" src="https://github.com/user-attachments/assets/9f7548f0-45a7-4a46-aef6-7c319d9d7b51" />
-<img width="473" height="510" alt="image" src="https://github.com/user-attachments/assets/061b79bd-2a89-4f8d-88ef-84ecb677a909" />
-<img width="702" height="535" alt="image" src="https://github.com/user-attachments/assets/3e337627-466b-4a53-b49d-0327ae9f977f" />
-<img width="645" height="505" alt="image" src="https://github.com/user-attachments/assets/30a9b9c2-4cfe-47c2-b69b-8d0942093cb5" />
+<img width="636" height="413" alt="image" src="https://github.com/user-attachments/assets/16c1a379-4bf9-45df-9183-94a5036624c1" />
+<img width="642" height="425" alt="image" src="https://github.com/user-attachments/assets/ad038226-73e5-47d7-8f2a-127df60562a1" />
+
 RESULT: 
 Thus the program to implement Face Detection using Haar Cascades was executed successfully.
